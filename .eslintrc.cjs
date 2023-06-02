@@ -24,6 +24,7 @@ module.exports = {
         'react/prop-types': 0,
         'jsx-a11y/click-events-have-key-events': 0,
         'no-shadow': 'off',
+        'jsx-a11y/no-static-element-interactions': 'off',
         'react/jsx-filename-extension': [
             1,
             {
